@@ -6,5 +6,5 @@
 <li> What do you need to print? </li>
 </ol>
 
-<a href="pattern/all_patterns.php"> See Code Here </a>
+<a href="pattern/all_patterns.php"> See Code for Different Patterns </a>
 <img src="pattern/1.png" alt=pattern />

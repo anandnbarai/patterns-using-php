@@ -7,3 +7,4 @@
 </ol>
 
 <a href="pattern/all_patterns.php"> See Code Here </a>
+<img src="pattern/pattern.png" alt=pattern />

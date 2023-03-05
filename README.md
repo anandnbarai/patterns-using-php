@@ -7,5 +7,5 @@
 </ol>
 
 <a href="pattern/all_patterns.php"> See Code Here </a>
-<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="pattern/1.png" alt=pattern />

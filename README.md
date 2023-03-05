@@ -1,5 +1,6 @@
 # patterns-using-php
-
+<html>
+ <body>
 <?php
 
 echo "<h2>Basic  Rules to Print All Pattern</h2><br>";
@@ -63,3 +64,5 @@ $size = 5;
     }
 
 ?>
+      </body>
+      </html>

@@ -8,4 +8,4 @@
 
 <a href="pattern/all_patterns.php"> See Code Here </a>
 <br>
-<img src="pattern/pattern.png" alt=pattern />
+<img src="pattern/1.png" alt=pattern />
